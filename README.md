@@ -5,7 +5,7 @@
 The perfect chefs page
 
 
-<h2>[Demo](https://nothingaroundus.github.io/Mealify)</h2>
+## [Demo](https://nothingaroundus.github.io/Mealify)
 
 
 ## Feedback
