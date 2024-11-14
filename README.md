@@ -5,9 +5,17 @@
 The perfect chefs page
 
 
-## [Demo](https://nothingaroundus.github.io/Mealify)
-https://nothingaroundus.github.io/Mealify
+## Installation
 
+Install Mealify with git
+
+```bash
+  git clone https://github.com/NothingAroundUs/Mealify.git
+  cd Mealify
+```
+    ## [Demo](https://nothingaroundus.github.io/Mealify)
+
+https://nothingaroundus.github.io/Mealify
 ## Feedback
 
 If you have any feedback, please reach out to us at [husseintaha756@gmail.com](mailto:husseintaha756@gmail.com)
