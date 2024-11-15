@@ -29,5 +29,4 @@ If you have any feedback, please reach out to us at [husseintaha756@gmail.com](m
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
+[MIT](LICENSE)
